@@ -20,6 +20,7 @@ It is desired to have a basic understanding of :
 - Emscripten
 - Caching in browsers
 - Typescript
+
 Required:
 - Understanding and some experience in Nodejs
 
