@@ -43,7 +43,7 @@ Through this project you will learn:
 
 ## Let's get started ! 👍🏻
 We have made everything easy for you! 👐
-Checkout [Contributions.md](https://latexgo.ipiyush.com) to know how to contribute.
+Checkout [Contribute.md](contribute.md) to know how to contribute.
 
 ## Project Admin 👨
 
