@@ -32,7 +32,7 @@ Through this project you will learn:
 - WebSocket connections
 - Syncing with Google Cloud
 - About LLVM compilers
-- Good Knowledge of Emscripten ( might be able to contribute at their main repo)
+- Good Knowledge of Emscripten 
 - UI Designing skills
 
 ### Ideas to work on 🙆
