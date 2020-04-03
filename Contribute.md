@@ -1,6 +1,6 @@
 ### Important Guidelines 📝
 - Go to [GitHub issues](https://github.com/poush/LatexGo/issues) page. 
-- Choose and issue you want to work on.
+- Choose the issue you want to work on.
 - Comment under that issue and let us know you're willing to work.
 - Once the issue is assigned to you, start working on it.
 
